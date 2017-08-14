@@ -6,3 +6,5 @@
 [算法题解](https://github.com/laizimo/zimo-article/issues/2)
 
 [网页性能优化漫谈(一)](https://github.com/laizimo/zimo-article/issues/3)
+
+[网页性能优化漫谈(二)](https://github.com/laizimo/zimo-article/issues/4)
