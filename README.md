@@ -10,3 +10,5 @@
 [网页性能优化漫谈(二)](https://github.com/laizimo/zimo-article/issues/4)
 
 [Redux学习笔记(一)](https://github.com/laizimo/zimo-article/issues/5)
+
+[网页性能优化漫谈(三)](https://github.com/laizimo/zimo-article/issues/6)
