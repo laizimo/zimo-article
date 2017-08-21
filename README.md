@@ -16,3 +16,5 @@
 [网页性能优化漫谈(四)](https://github.com/laizimo/zimo-article/issues/7)
 
 [前端 排序算法总结(一)](https://github.com/laizimo/zimo-article/issues/8)
+
+[面试题总结(一)](https://github.com/laizimo/zimo-article/issues/10)
