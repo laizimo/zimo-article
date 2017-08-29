@@ -22,3 +22,7 @@
 [三栏布局总结](https://github.com/laizimo/zimo-article/issues/12)
 
 [flex布局详解](https://github.com/laizimo/zimo-article/issues/13)
+
+[js 面试题总结(一)](https://github.com/laizimo/zimo-article/issues/15)
+
+[react生命周期的艺术](https://github.com/laizimo/zimo-article/issues/16)
