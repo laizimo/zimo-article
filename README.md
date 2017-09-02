@@ -27,6 +27,8 @@
 
 [react生命周期的艺术](https://github.com/laizimo/zimo-article/issues/16)
 
-[瀑布流列表的下拉刷新和上拉加载实现（一）](https://github.com/laizimo/zimo-article/issues/17)
+[瀑布流列表的下拉刷新和上拉加载实现（上）](https://github.com/laizimo/zimo-article/issues/17)
 
 [js类继承模拟](https://github.com/laizimo/zimo-article/issues/18)
+
+[瀑布流列表的下拉刷新和上拉加载实现（下）](https://github.com/laizimo/zimo-article/issues/20)
