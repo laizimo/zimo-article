@@ -11,6 +11,8 @@
 
 [js类继承模拟](https://github.com/laizimo/zimo-article/issues/18)
 
+[js的事件循环](https://github.com/laizimo/zimo-article/issues/26)
+
 # 框架篇
 
 [Redux学习笔记(一)](https://github.com/laizimo/zimo-article/issues/5)
