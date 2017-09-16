@@ -25,6 +25,10 @@
 
 [react context解析](https://github.com/laizimo/zimo-article/issues/25)
 
+# nodeJS篇
+
+[nodeJS模块整理](https://github.com/laizimo/zimo-article/issues/14)
+
 # 性能篇
 
 [网页性能优化漫谈(一)](https://github.com/laizimo/zimo-article/issues/3)
