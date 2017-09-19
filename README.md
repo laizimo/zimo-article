@@ -25,6 +25,8 @@
 
 [react context解析](https://github.com/laizimo/zimo-article/issues/25)
 
+[前端框架模式的变迁](https://github.com/laizimo/zimo-article/issues/28)
+
 # nodeJS篇
 
 [nodeJS模块整理](https://github.com/laizimo/zimo-article/issues/14)
