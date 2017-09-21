@@ -51,6 +51,8 @@
 
 [前端 排序算法总结(一)](https://github.com/laizimo/zimo-article/issues/8)
 
+[前端 排序算法总结(二)](https://github.com/laizimo/zimo-article/issues/9)
+
 # 前端实践篇
 
 [瀑布流列表的下拉刷新和上拉加载实现（上）](https://github.com/laizimo/zimo-article/issues/17)
