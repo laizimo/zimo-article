@@ -7,6 +7,8 @@
 
 [flex布局详解](https://github.com/laizimo/zimo-article/issues/13)
 
+[CSS布局说——可能是最全的](https://github.com/laizimo/zimo-article/issues/36)
+
 # js篇
 
 [js类继承模拟](https://github.com/laizimo/zimo-article/issues/18)
