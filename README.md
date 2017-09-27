@@ -1,6 +1,8 @@
 
 ### Hello，大家好，issues中有我的博客，还会有5篇精彩的文章（从别处收集的）
 
+#### 喜欢的话请点star，想订阅点watch，千万别fork！
+
 # css篇
 
 [三栏布局总结](https://github.com/laizimo/zimo-article/issues/12)
