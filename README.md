@@ -19,6 +19,8 @@
 
 [js的事件循环](https://github.com/laizimo/zimo-article/issues/26)
 
+[ES6常用知识点概述](https://github.com/laizimo/zimo-article/issues/38)
+
 # 框架篇
 
 [Redux学习笔记(一)](https://github.com/laizimo/zimo-article/issues/5)
