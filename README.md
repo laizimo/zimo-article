@@ -67,6 +67,8 @@
 
 [移动端富文本实践篇(一)](https://github.com/laizimo/zimo-article/issues/31)
 
+[移动端富文本实践篇(二)](https://github.com/laizimo/zimo-article/issues/32)
+
 # 面试总结篇
 
 [面试题总结(一)](https://github.com/laizimo/zimo-article/issues/10)
