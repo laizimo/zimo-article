@@ -21,6 +21,8 @@
 
 [ES6常用知识点概述](https://github.com/laizimo/zimo-article/issues/38)
 
+[前端——影子杀手篇](https://github.com/laizimo/zimo-article/issues/39)
+
 # 框架篇
 
 [Redux学习笔记(一)](https://github.com/laizimo/zimo-article/issues/5)
