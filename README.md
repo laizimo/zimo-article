@@ -49,6 +49,8 @@
 
 [网页性能优化漫谈(四)](https://github.com/laizimo/zimo-article/issues/7)
 
+[前端性能优化常用总结](https://github.com/laizimo/zimo-article/issues/40)
+
 # http篇
 
 [浏览器缓存篇](https://github.com/laizimo/zimo-article/issues/24)
