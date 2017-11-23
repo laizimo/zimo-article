@@ -25,6 +25,8 @@
 
 [前端——影子杀手篇](https://github.com/laizimo/zimo-article/issues/39)
 
+[浅入浅出Vue](https://github.com/laizimo/zimo-article/issues/44)
+
 # 框架篇
 
 [Redux学习笔记(一)](https://github.com/laizimo/zimo-article/issues/5)
