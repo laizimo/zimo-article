@@ -27,8 +27,6 @@
 
 [浅入浅出Vue](https://github.com/laizimo/zimo-article/issues/44)
 
-[vue-cli解析](https://github.com/laizimo/zimo-article/issues/47)
-
 # 框架篇
 
 [Redux学习笔记(一)](https://github.com/laizimo/zimo-article/issues/5)
@@ -40,6 +38,10 @@
 [react context解析](https://github.com/laizimo/zimo-article/issues/25)
 
 [前端框架模式的变迁](https://github.com/laizimo/zimo-article/issues/28)
+
+[vue-cli解析](https://github.com/laizimo/zimo-article/issues/47)
+
+[2017前端技术大盘点](https://github.com/laizimo/zimo-article/issues/48)
 
 # nodeJS篇
 
