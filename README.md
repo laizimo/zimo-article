@@ -3,6 +3,12 @@
 
 #### 喜欢的话请点star，想订阅点watch，千万别fork！
 
+### 微信公众号：
+
+![微信公众号](http://lhbzimo.oss-cn-shenzhen.aliyuncs.com/qrcode_for_gh_6176010a708d_258.jpg)
+
+欢迎关注我的微信公众号，第一时间获得资讯，谢谢！！
+
 # css篇
 
 [三栏布局总结](https://github.com/laizimo/zimo-article/issues/12)
