@@ -33,6 +33,8 @@
 
 [浅入浅出Vue](https://github.com/laizimo/zimo-article/issues/44)
 
+[区块链与nodejs(一)](https://github.com/laizimo/zimo-article/issues/49)
+
 # 框架篇
 
 [Redux学习笔记(一)](https://github.com/laizimo/zimo-article/issues/5)
