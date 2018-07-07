@@ -97,6 +97,10 @@
 
 [移动端富文本实践篇(四)](https://github.com/laizimo/zimo-article/issues/33)
 
+# 前沿技术篇
+
+[区块链浅析](https://github.com/laizimo/zimo-article/issues/54)
+
 # 面试总结篇
 
 [面试题总结(一)](https://github.com/laizimo/zimo-article/issues/10)
