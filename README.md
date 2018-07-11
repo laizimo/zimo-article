@@ -19,6 +19,8 @@
 
 [谈谈PostCss](https://github.com/laizimo/zimo-article/issues/41)
 
+[Retina屏下的图片优化](https://github.com/laizimo/zimo-article/issues/55)
+
 # js篇
 
 [js类继承模拟](https://github.com/laizimo/zimo-article/issues/18)
