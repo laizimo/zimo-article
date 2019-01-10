@@ -41,6 +41,8 @@
 
 [组件的划分](https://github.com/laizimo/zimo-article/issues/51)
 
+[脚手架的开发总结](https://github.com/laizimo/zimo-article/issues/58)
+
 # 框架篇
 
 [Redux学习笔记(一)](https://github.com/laizimo/zimo-article/issues/5)
