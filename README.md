@@ -5,7 +5,7 @@
 
 ### 微信公众号：
 
-![微信公众号](http://lhbzimo.oss-cn-shenzhen.aliyuncs.com/qrcode_for_gh_6176010a708d_258.jpg)
+![微信公众号](https://s10.mogucdn.com/mlcdn/c45406/190111_50ibli0kb15fji1a5fkajgb4ga6k3_712x710.png)
 
 欢迎关注我的微信公众号，第一时间获得资讯，谢谢！！
 
