@@ -5,7 +5,7 @@
 
 ### 微信公众号：
 
-![微信公众号](https://s10.mogucdn.com/mlcdn/c45406/190111_50ibli0kb15fji1a5fkajgb4ga6k3_712x710.png)
+![微信公众号](https://s10.mogucdn.com/mlcdn/c45406/190111_2ack8424j41hdb9lf4el26k760i4e_258x258.jpg)
 
 欢迎关注我的微信公众号，第一时间获得资讯，谢谢！！
 
