@@ -59,6 +59,10 @@
 
 [2017前端技术大盘点](https://github.com/laizimo/zimo-article/issues/48)
 
+# Ts篇
+
+[ts实录](https://github.com/laizimo/zimo-article/issues/60)
+
 # nodeJS篇
 
 [nodeJS模块整理](https://github.com/laizimo/zimo-article/issues/14)
