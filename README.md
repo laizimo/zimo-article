@@ -3,6 +3,8 @@
 
 #### 喜欢的话请点star，想订阅点watch，千万别fork！
 
+#### 长草博客，因为阿里云的服务器退了，OSS没了，所以部分图片出不来，可以找[我的掘金文章](https://juejin.im/user/59354d1eac502e0068b3305d/posts)，后续会把文章图片补上，谢谢关注
+
 ### 微信公众号：
 
 ![微信公众号](https://s10.mogucdn.com/mlcdn/c45406/190111_2ack8424j41hdb9lf4el26k760i4e_258x258.jpg)
