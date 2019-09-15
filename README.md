@@ -61,6 +61,8 @@
 
 [2017前端技术大盘点](https://github.com/laizimo/zimo-article/issues/48)
 
+[初涉DVA](https://github.com/laizimo/zimo-article/issues/61)
+
 # Ts篇
 
 [ts实录](https://github.com/laizimo/zimo-article/issues/60)
