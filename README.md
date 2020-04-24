@@ -27,7 +27,7 @@
 
 [正则表达式详解 js](https://github.com/laizimo/zimo-article/issues/19)
 
-[js的事件循环](https://github.com/laizimo/zimo-article/issues/26)
+[JS事件循环](https://github.com/laizimo/zimo-article/issues/26)
 
 [ES6常用知识点概述](https://github.com/laizimo/zimo-article/issues/38)
 
