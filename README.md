@@ -89,9 +89,7 @@
 
 [算法题解](https://github.com/laizimo/zimo-article/issues/2)
 
-[前端 排序算法总结(一)](https://github.com/laizimo/zimo-article/issues/8)
-
-[前端 排序算法总结(二)](https://github.com/laizimo/zimo-article/issues/9)
+[前端 排序算法总结](https://github.com/laizimo/zimo-article/issues/8)
 
 # 前端实践篇
 
