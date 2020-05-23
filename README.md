@@ -5,7 +5,7 @@
 
 ### 微信公众号：
 
-![微信公众号](https://wx2.sbimg.cn/2020/05/23/gongzonghao.png)
+![公众号.png](https://s1.ax1x.com/2020/05/23/YvRi8K.png)
 
 欢迎关注我的微信公众号，第一时间获得资讯，谢谢！！
 
